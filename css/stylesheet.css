@@ -18,15 +18,17 @@ nav li{
   color:red;
   font-style: italic;
   font-weight: bold;
-  text-align: left;
   list-style: none;
+  float:left;
+  padding-left: 5%
 }
 .flashy2{
   color:red;
   font-style: italic;
   font-weight: bold;
-  text-align: right;
-  list-style: none
+  list-style: none;
+  float: right;
+  padding-right: 5%
 }
 
 img{
