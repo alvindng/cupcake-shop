@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  background-color: rgba(117, 221, 255, 0.5);
+  font-family: 'Poiret One', cursive;
+}
+ul{
+  list-style: none;
+}
+
+li{
+  display: inline-block;
+  width: 30%;
+}
+
+.flashy{
+  display: inline-grid;
+  color:red;
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul.nav{
+  padding: 0px 45% 0px 45%;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+
+h1{
+
+}
+.best{
+  color: rgba(242, 255, 0, 0.8);
+  font-size:150%;
+  font_weight: bolder
+}
